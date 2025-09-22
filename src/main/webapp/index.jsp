@@ -10,7 +10,7 @@
     <h3>What do you want ??? to do?</h3>
     <ul>
         <li><a href="register.jsp">Registration sssfor New user   </a></li>
-        <li><a href="login.jsp">Login page fosr booking .</a></li>
+        <li><a href="login.jsp">Login page fosrsssss booking .</a></li>
     </ul>
 </body>
 </html>
